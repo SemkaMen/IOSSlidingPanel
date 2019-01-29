@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iosslidingpanel", "iosslidingpanel\iosslidingpanel.csproj", "{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Release|iPhone.Build.0 = Release|iPhone
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{55F6AFEE-6399-4587-9FCE-0478A6E7A59C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28038A6F-C3B6-4524-8574-9DFB52F79AAA}
+	EndGlobalSection
+EndGlobal
