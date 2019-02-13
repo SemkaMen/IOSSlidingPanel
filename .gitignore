@@ -1,0 +1,8 @@
+iosslidingpanel/.vs/
+iosslidingpanel/iosslidingpanel/.vs/
+*.user
+iosslidingpanel/iosslidingpanel/obj/
+iosslidingpanel/iosslidingpanel/bin/
+iosslidingpanel/iosslidingpanel/bin/
+iosslidingpanel/packages/*/
+*.nupkg
